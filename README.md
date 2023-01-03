@@ -1,2 +1,14 @@
 # [기말과제]쇼핑몰 프로젝트-GoodPlace
-<h6></h6>
+![2101216_진솔미_과제발표_page-0001](https://user-images.githubusercontent.com/103156290/210315643-eef44348-5ca8-48ba-99a1-601085695531.jpg)
+![2101216_진솔미_과제발표_page-0002](https://user-images.githubusercontent.com/103156290/210315647-64545585-1424-49a0-b393-b8f52a07f0b0.jpg)
+![2101216_진솔미_과제발표_page-0003](https://user-images.githubusercontent.com/103156290/210315671-c29aa24c-4045-4876-8af5-96d3872e0f21.jpg)
+![2101216_진솔미_과제발표_page-0004](https://user-images.githubusercontent.com/103156290/210315706-61dd9f6d-640d-4cad-996f-2f0545df36b3.jpg)
+![2101216_진솔미_과제발표_page-0005](https://user-images.githubusercontent.com/103156290/210315717-eb1238fe-a0a2-4d77-bc5a-92daee125a8a.jpg)
+![2101216_진솔미_과제발표_page-0006](https://user-images.githubusercontent.com/103156290/210315728-eb06a651-ec2e-402f-b7fd-0ed10dc94149.jpg)
+![2101216_진솔미_과제발표_page-0007](https://user-images.githubusercontent.com/103156290/210315743-fb5c4bba-b7ab-460c-b95e-897ee525ace4.jpg)
+![2101216_진솔미_과제발표_page-0008](https://user-images.githubusercontent.com/103156290/210315769-fef4bbdc-fd62-4344-b7e3-561bcf727d94.jpg)
+![2101216_진솔미_과제발표_page-0009](https://user-images.githubusercontent.com/103156290/210315777-e64986a6-0ee8-4e34-b787-7c3f0e05c755.jpg)
+![2101216_진솔미_과제발표_page-0010](https://user-images.githubusercontent.com/103156290/210315787-84c3ca04-4c2a-4c20-8a00-d8610757b891.jpg)
+![2101216_진솔미_과제발표_page-0011](https://user-images.githubusercontent.com/103156290/210315800-4be8a891-ebbb-4e02-89b5-39b350f2cad8.jpg)
+![2101216_진솔미_과제발표_page-0012](https://user-images.githubusercontent.com/103156290/210315818-4445aa28-f990-4877-b3fb-2dcc39eea891.jpg)
+![2101216_진솔미_과제발표_page-0013](https://user-images.githubusercontent.com/103156290/210315824-f8d2da90-ad39-4a63-9431-437772de4222.jpg)
