@@ -34,5 +34,5 @@ create table member(
    m_class int(11) DEFAULT 1
 );
 
-INSERT INTO MEMBER values("doy0201","ehdud1234!","010-5559-1716","doy@naver.com","�Ʊ��䳢",1);
-INSERT INTO MEMBER values("tom526","ehdud1234!","010-4641-1716","tom526@naver.com","������",0);
+INSERT INTO MEMBER values("doy0201","ehdud1234!","010-5559-1716","doy@naver.com","아기토끼",1);
+INSERT INTO MEMBER values("tom526","ehdud1234!","010-4641-1716","tom526@naver.com","관리자",0);
