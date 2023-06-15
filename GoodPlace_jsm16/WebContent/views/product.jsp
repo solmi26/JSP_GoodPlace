@@ -166,7 +166,14 @@ table {
 										|| val == undefined || val == 0) {
 									alert("1원 이상 후원가능합니다.");
 									return false
-								} else {
+								} else if(isNaN(val)){
+									alert("숫자만 입력하세요.");
+									return false
+								} else if(val > 1000000000){
+									alert("1회 최대 기부 금액은 1,000,000,000원 입니다.")
+									return false
+								}
+								else {
 									document.getElementById("frm").submit();
 								}
 							}
@@ -187,7 +194,14 @@ table {
 										|| val == undefined || val == 0) {
 									alert("1원 이상 후원가능합니다.");
 									return false
-								} else {
+								} else if(isNaN(val)){
+									alert("숫자만 입력하세요.");
+									return false
+								} else if(val > 1000000000){
+									alert("1회 최대 기부 금액은 1,000,000,000원 입니다.")
+									return false
+								}
+								else {
 									alert(`결제되었습니다. 감사합니다.`);
 								}
 							}

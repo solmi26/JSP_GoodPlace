@@ -35,8 +35,11 @@ public class GoodCartAddService {
 		for (int i = 0; i < cartList.size(); i++) {
 			if(cartGood.getP_title().equals(cartList.get(i).getC_title())){
 				isNewCart = false;
-				cartList.get(i).setC_price(cartList.get(i).getC_price()+c_price);
-				break;
+				if((cartList.get(i).getC_price()+c_price)>1000000000) {
+					break;
+				}else {				cartList.get(i).setC_price(cartList.get(i).getC_price()+c_price);
+				break;}
+
 			}
 		}
 		

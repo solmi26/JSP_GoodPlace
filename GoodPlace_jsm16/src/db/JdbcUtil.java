@@ -15,7 +15,7 @@ public class JdbcUtil {
 			Context envCtx = (Context)initCtx.lookup("java:comp/env");
 			DataSource ds = (DataSource)envCtx.lookup("jdbc_mariadb");
 			con = ds.getConnection();
-			System.out.println("연결");
+			System.out.println("DB연결성공");
 			con.setAutoCommit(false);
 		} catch (Exception e) {
 			e.printStackTrace();
